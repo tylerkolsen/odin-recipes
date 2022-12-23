@@ -1,0 +1,1 @@
+The goal of this project is to create a basic recipe website. This is using basic HTML language and is meant to be a culmination of HTML understanding and using Git for proper commit protocol
